@@ -12,3 +12,4 @@ Esse é o repositório de todos os meu projetos em C
 - [X] [Discord](https://discord.gg/6WCZ9Gg5Dm) <br>
 - [ ] Facebook <br>
 - [ ] Linkedin <br>
+- [ ] PayPal
