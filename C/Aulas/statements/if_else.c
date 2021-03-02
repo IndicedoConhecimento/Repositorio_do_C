@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(void){
     int valor = 56;
     if(valor < 100){
         printf("Menor que 100");
